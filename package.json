@@ -1,0 +1,19 @@
+{
+  "name": "nGyroParallax",
+  "version": "0.1.0",
+  "private": true,
+  "main": "gulpfile.js",
+  "author": "Nunifuchisaka",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3"
+  },
+  "devDependencies": {
+    "gulp-rename": "^1.2.2"
+  }
+}

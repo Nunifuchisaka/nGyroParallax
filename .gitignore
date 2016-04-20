@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.psd
+*.ai
+*.sketch
+.sass-cache/
+/node_modules/
+/gitignore/
